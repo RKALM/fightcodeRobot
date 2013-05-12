@@ -1,4 +1,3 @@
-
 //FightCode can only understand your robot
 //if its class is called Robot
 var cannonRotated = false;
